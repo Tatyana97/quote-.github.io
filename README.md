@@ -1,1 +1,1 @@
-# quote-.github.io
+# quote.github.io
