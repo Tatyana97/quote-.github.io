@@ -1,41 +1,26 @@
-{
-    "squadName" : "Super Hero Squad",
-    "homeTown" : "Metro City",
-    "formed" : 2016,
-    "secretBase" : "Super tower",
-    "active" : true,
-    "members" : [
-      {
-        "name" : "Molecule Man",
-        "age" : 29,
-        "secretIdentity" : "Dan Jukes",
-        "powers" : [
-          "Radiation resistance",
-          "Turning tiny",
-          "Radiation blast"
-        ]
-      },
-      {
-        "name" : "Madame Uppercut",
-        "age" : 39,
-        "secretIdentity" : "Jane Wilson",
-        "powers" : [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
-        ]
-      },
-      {
-        "name" : "Eternal Flame",
-        "age" : 1000000,
-        "secretIdentity" : "Unknown",
-        "powers" : [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
-        ]
-      }
-    ]
-  }
+[
+    {
+    "author": "Джим Рон",
+    "quote text": "Если вы не готовы рискнуть обычным, вам придется довольствоваться заурядным"
+    },
+    {
+        "author": "Труман Капоте",
+        "quote text": "Неудача – это приправа, которая придает успеху особенный вкус"
+    },
+    {
+        "author": "Труман Капоте",
+        "quote text": "Неудача – это приправа, которая придает успеху особенный вкус"
+    },
+    {
+        "author": "Джон Р. Вуден",
+        "quote text": "Не позволяйте тому, что вы не можете сделать, мешать тому, что вы можете сделать"
+    },
+    {
+        "author": "Маргарет Тэтчер",
+        "quote text": "Возможно, вам придется сражаться в битве более одного раза, чтобы выиграть"
+    },
+    {
+        "author": "Нельсон Мандела",
+        "quote text": "Это всегда выглядит невозможным, пока вы не сделаете это"
+    }
+  ]
